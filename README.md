@@ -1,4 +1,11 @@
-## Hi there 👋
+# Boas vindas ao meu perfil 💙💙
+## Meu nome é Vitor 
+
+### Estou estudando na Alura(⌐■_■)
+
+### Estou me desenvolvendo na linguagem JavaScript(⌐■_■)
+
+### Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos(⌐■_■)
 
 <!--
 **vitormed08/vitormed08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
