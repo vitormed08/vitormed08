@@ -7,4 +7,4 @@
 
 ### Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos🐱‍🏍
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnK_a0FfrLU8VWwMn0zPA9rwxMNyw36-2pw&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflCCBhquVLwqDDBM6xKpn3Y_U06Pl42Beiw&s)
